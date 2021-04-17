@@ -15,7 +15,7 @@
     <properties>
         <spring.framework.version>3.2.18.RELEASE</spring.framework.version>
         <hibernate.version>4.1.2.Final</hibernate.version>
-        <sl4j.version>1.5.8</sl4j.version>
+        <sl4j.version>1.7.30</sl4j.version>
     </properties>
 
     <build>
