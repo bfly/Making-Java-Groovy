@@ -13,9 +13,9 @@
     <name>mjg-hibernate-jpa</name>
 
     <properties>
-        <spring.framework.version>3.1.1.RELEASE</spring.framework.version>
-        <hibernate.version>5.4.24.Final</hibernate.version>
-        <sl4j.version>1.5.8</sl4j.version>
+        <spring.framework.version>3.2.18.RELEASE</spring.framework.version>
+        <hibernate.version>4.1.2.Final</hibernate.version>
+        <sl4j.version>1.7.30</sl4j.version>
     </properties>
 
     <build>
@@ -90,7 +90,7 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>1.3.148</version>
+            <version>1.4.200</version>
         </dependency>
         <dependency>
             <groupId>cglib</groupId>
